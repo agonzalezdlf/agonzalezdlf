@@ -12,23 +12,19 @@
 
 ---
 
-I design and ship AI-powered applications that tackle real operational problems — from career development to last-mile logistics. My approach combines deep problem research, user empathy, and modern AI tooling to go from concept to deployed product.
+I identify real-world problems and turn them into working, deployed applications using Google AI Studio and Vercel — from career development to last-mile logistics optimization.
 
-I work with **TypeScript**, **Vite**, and **Google Gemini AI** to build full-stack applications and deploy them to production on **Vercel**.
+My focus is on product thinking: understanding the problem deeply, designing a solution that makes sense, and shipping something people can actually use.
 
 ---
 
-## Stack
+## Tools
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -46,8 +42,6 @@ I work with **TypeScript**, **Vite**, and **Google Gemini AI** to build full-sta
 Personalized career development powered by Google Gemini. Users get AI-generated roadmaps, skills gap analysis, and priority focus areas — delivered in a high-end, responsive interface.
 
 [![Live](https://img.shields.io/badge/Live%20App-000?style=flat-square&logo=vercel)](https://trajecta-six.vercel.app)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -58,8 +52,6 @@ Personalized career development powered by Google Gemini. Users get AI-generated
 Decision support system for Spanish logistics operators (SEUR, Celeritas, Correos). Predicts delivery success probability, generates optimized time windows, and dynamically reroutes drivers in real time to cut failed delivery rates.
 
 [![Live](https://img.shields.io/badge/Live%20App-000?style=flat-square&logo=vercel)](https://arrivio-five.vercel.app)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
