@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-gonzalez-de-la-flor/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/agonzalezdlf)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agonzalezdlf26@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agonzalezdlf26@gmail.com)
+[![University](https://img.shields.io/badge/University%20Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:argonzalez.ieu2024@student.ie.edu)
 
 </div>
 
@@ -22,9 +23,9 @@ My focus is on product thinking: understanding the problem deeply, designing a s
 
 <div align="center">
 
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-8E75B2?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com)
+[![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
 
